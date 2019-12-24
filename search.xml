@@ -3,9 +3,9 @@
   <entry>
     <title>Typora for windows使用教程</title>
     <url>/2019/12/23/Typora-for-windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/</url>
-    <content><![CDATA[<h2 id="1、基本使用语法"><a href="#1、基本使用语法" class="headerlink" title="1、基本使用语法"></a>1、<strong>基本使用语法</strong></h2><a id="more"></a>
+    <content><![CDATA[<a id="more"></a>
 
-<h3 id="1-1-段落与字体"><a href="#1-1-段落与字体" class="headerlink" title="1.1 段落与字体"></a>1.1 段落与字体</h3><h4 id="1-1-1-段落"><a href="#1-1-1-段落" class="headerlink" title="1.1.1 段落"></a>1.1.1 段落</h4><p>使用Markdown时段落是根据空行来判断，在Typora中直接使用<code>enter</code>键来切换到下一个段落，如果一行的长度没有占完，而下一行还想保持在同一段的话可以使用<code>shift+enter</code>快捷键。(段与段之间的距离比行与行之间长)</p>
+<h2 id="1、基本使用语法"><a href="#1、基本使用语法" class="headerlink" title="1、基本使用语法"></a>1、<strong>基本使用语法</strong></h2><h3 id="1-1-段落与字体"><a href="#1-1-段落与字体" class="headerlink" title="1.1 段落与字体"></a>1.1 段落与字体</h3><h4 id="1-1-1-段落"><a href="#1-1-1-段落" class="headerlink" title="1.1.1 段落"></a>1.1.1 段落</h4><p>使用Markdown时段落是根据空行来判断，在Typora中直接使用<code>enter</code>键来切换到下一个段落，如果一行的长度没有占完，而下一行还想保持在同一段的话可以使用<code>shift+enter</code>快捷键。(段与段之间的距离比行与行之间长)</p>
 <h4 id="1-1-2-分割线"><a href="#1-1-2-分割线" class="headerlink" title="1.1.2 分割线"></a>1.1.2 分割线</h4><p>如果想要在段与段之间使用分割线可以使用<code>***</code>或者是<code>---</code>再按下<code>enter</code>,效果如下(下面这条横线即是分割线)：</p>
 <hr>
 <h4 id="1-1-3-字体"><a href="#1-1-3-字体" class="headerlink" title="1.1.3 字体"></a><strong>1.1.3 字体</strong></h4><p>加粗(文字前后分别有两个<code>**</code>或者是两个<code>__</code>)在typora中开以使用快捷键ctrl+B<br>斜体(文字前后分别有一个<code>*</code>)在typora中使用快捷键<code>ctrl+I</code><br>斜粗体(文字前后分别有三个<code>*</code>)<br>删除线(文字前后使用<code>~~</code>)<br>下划线**</p>
@@ -108,9 +108,9 @@
   <entry>
     <title>常用代码命令</title>
     <url>/2019/12/23/%E5%B8%B8%E7%94%A8%E4%BB%A3%E7%A0%81%E5%91%BD%E4%BB%A4/</url>
-    <content><![CDATA[<h2 id="常用hexo命令"><a href="#常用hexo命令" class="headerlink" title="常用hexo命令"></a>常用hexo命令</h2><a id="more"></a>
+    <content><![CDATA[<a id="more"></a>
 
-<h3 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h3><blockquote>
+<h2 id="常用hexo命令"><a href="#常用hexo命令" class="headerlink" title="常用hexo命令"></a>常用hexo命令</h2><h3 id="常用命令"><a href="#常用命令" class="headerlink" title="常用命令"></a>常用命令</h3><blockquote>
 <p>hexo new “postName” #新建文章 </p>
 <p>hexo new page “pageName” #新建页面 </p>
 <p>hexo generate #生成静态页面至public目录 </p>
@@ -135,9 +135,9 @@
   <entry>
     <title>Hello World</title>
     <url>/2019/12/23/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<a id="more"></a>
+    <content><![CDATA[<a id="more"></a>
 
+<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
 
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
